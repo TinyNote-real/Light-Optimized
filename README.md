@@ -1,6 +1,8 @@
 # Light-Optimized
 An Optimization Pack That's Lighter Than A Feather. This Modpack Gives Ultimate Performance
+
 https://modrinth.com/modpack/light-optimized
+
 👋 Hello, Welcome To Light Optimized
 Experience a significant performance boost with our Light Optimized modpack, designed to get the most FPS out of your computer. Say goodbye to lag and hello to buttery smooth gameplay, even on lower-end machines. Whether you have a high-end gaming rig or a modest setup, this modpack ensures you get the best possible performance from your system.
 
