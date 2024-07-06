@@ -1,4 +1,4 @@
-version:3953
+version:3839
 ao:false
 biomeBlendRadius:1
 enableVsync:false
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:0.014084507042253521
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric"]
+resourcePacks:["vanilla","fabric","file/Model O\u0026F.zip","file/Fast Better Grass.zip","file/Optimized Models v1.5.1.zip"]
 incompatibleResourcePacks:["modernfix"]
 lastServer:
 lang:en_us
@@ -87,7 +87,7 @@ panoramaScrollSpeed:0.3732394366197183
 debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
-menuBackgroundBlurriness:5
+menuBackgroundBlurriness:0.5
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
