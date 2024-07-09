@@ -124,10 +124,6 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
