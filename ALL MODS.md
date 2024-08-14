@@ -36,7 +36,7 @@ Here you can find the mod comparison table between the currently supported Minec
 |Video Tape|✅|✅|✅|✅|✅|✅|✅|✅|✅|||✅|✅|✅|✅|✅
 
 ## RecourcePack
-| Name | 1.16.5-1.19.4| 1.20-1.20.3| 1.20.4 | 1.20.5 | 1.20.6 | 1.21 | 1.21.1 | Description |
+| Name | 1.16.5-1.19.4| 1.20.0-3| 1.20.4 | 1.20.5 | 1.20.6 | 1.21 | 1.21.1 | Description |
 |---|---|---|---|---|---|---|---|---|
 |Fast Better Grass|✅||✅|✅|✅
 |Model Optimizations & Fixes|✅||✅|✅|✅
@@ -54,11 +54,11 @@ Here you can find the mod comparison table between the currently supported Minec
 ## Libraries
 
 Mods that make other mods work. Should not be removed.
-| Name | 1.16.5-1.19.4| 1.20 | 1.20.1 | 1.20.2 | 1.20.3 | 1.20.4 | 1.20.5 | 1.20.6 | 1.21  | 1.21.1 | Description |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Cloth Config API|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
-|Fabric API|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
-|Fabric Language Kotlin|✅||||||✅|✅|||
-|YetAnotherConfigLib||✅|✅|✅|✅|✅|✅|✅|✅|
-|Moonlight Lib|||||✅|
-|Fzzy Config|||||||✅|
+| Name | 1.16.5-1.19.4| 1.20.0-2 | 1.20.3 | 1.20.4 | 1.20.5 | 1.20.6 | 1.21  | 1.21.1 | Description |
+|---|---|---|---|---|---|---|---|---|---|
+|Cloth Config API|✅|✅|✅|✅|✅|✅|✅|✅
+|Fabric API|✅|✅|✅|✅|✅|✅|✅|✅
+|Fabric Language Kotlin|✅||||✅|✅|||
+|YetAnotherConfigLib||✅|✅|✅|✅|✅|✅|✅
+|Moonlight Lib|||✅|
+|Fzzy Config|||||✅|
