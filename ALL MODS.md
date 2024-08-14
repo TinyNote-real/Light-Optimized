@@ -36,8 +36,8 @@ Here you can find the mod comparison table between the currently supported Minec
 |Video Tape|✅|✅|✅|✅|✅|✅|✅|✅|✅|||✅|✅|✅|✅|✅
 
 ## RecourcePack
-| Name | 1.16.5-1.19.4| 1.20.0-3| 1.20.4 | 1.20.5 | 1.20.6 | 1.21 | 1.21.1 | Description |
-|---|---|---|---|---|---|---|---|---|
+| Name | 1.16.5-1.19.4| 1.20.0-3| 1.20.4 | 1.20.5 | 1.20.6 | Description |
+|---|---|---|---|---|---|---|
 |Fast Better Grass|✅||✅|✅|✅
 |Model Optimizations & Fixes|✅||✅|✅|✅
 |Optimized Models|||||✅
