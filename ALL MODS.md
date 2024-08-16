@@ -9,7 +9,7 @@ Here you can find the mod comparison table between the currently supported Minec
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |BadOptimizations|||||||✅|✅|✅||✅|✅|✅|✅|✅|✅|✅
 |C2ME||||||||||✅|✅|✅|✅|
-|Debugify||||||||||✅|✅|✅|✅|||✅|||||✅
+|Debugify||||||||||✅|✅|✅|✅|||✅|✅|
 |Enhanced Block Entities|||||||||||||||||✅|
 |Entity Culling|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅
 |Fast Paintings|||||||||||||✅|
@@ -18,29 +18,30 @@ Here you can find the mod comparison table between the currently supported Minec
 |ImmediatelyFast||||✅||✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅
 |Indium||||||||||✅|✅|✅|✅|
 |LazyDFU||||||||||✅|
-|Krypton|✅|✅|✅|✅|✅|✅|✅|✅|✅||||✅|✅|✅|✅
+|Krypton|✅|✅|✅|✅|✅|✅|✅|✅|✅||||✅|✅|✅|✅|✅
 |Ksyxis|||✅|✅|✅|✅|✅|✅|✅|
 |LambDynamicLights||✅|✅|✅|
 |Let Me Despawn|✅||✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅
 |Lithium|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅
 |Memory Leak Fix|✅|||||✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅
 |ModernFix|✅||||✅|||✅||✅||||✅|✅|✅|✅|✅
-|More Culling|||✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅
+|More Culling|||✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Noisium||||||||||||||✅|
 |Particle Core|||||||||||||||✅|✅
 |Sodium|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅
-|Sodium Extra|✅|✅|✅|✅|✅|✅|✅|||✅|✅|✅|✅|✅|✅|✅
+|Sodium Extra|✅|✅|✅|✅|✅|✅|✅|||✅|✅|✅|✅|✅|✅|✅|✅
 |Starlight||✅|✅|✅|✅|✅|✅|✅|✅||||✅||
 |ThreadTweak||||||||||✅|✅|✅||✅|
-|Very Many Players||||||||||✅|✅|✅|✅|✅|✅|✅
-|Video Tape|✅|✅|✅|✅|✅|✅|✅|✅|✅|||✅|✅|✅|✅|✅
+|Very Many Players||||||||||✅|✅|✅|✅|✅|✅|✅|✅
+|Video Tape|✅|✅|✅|✅|✅|✅|✅|✅|✅|||✅|✅|✅|✅|✅|✅
 
 ## RecourcePack
+Removed all recource packs from 1.20.6 onwards for a smaller modpack.
 | Name | 1.16.5-1.19.4| 1.20.0-3| 1.20.4 | 1.20.5 | 1.20.6 | Description |
 |---|---|---|---|---|---|---|
-|Fast Better Grass|✅||✅|✅|✅
-|Model Optimizations & Fixes|✅||✅|✅|✅
-|Optimized Models|||||✅
+|[Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)|✅||✅|✅|✅|Makes grass and related blocks use the top texture on the sides. Small performace boost.
+|[Model Optimizations & Fixes](https://modrinth.com/resourcepack/model-optimizations-and-fixes)|✅||✅|✅|✅|Optimize models & fix lots of bugs. Resulting in a small performance boost. 
+|[Optimized Models](https://modrinth.com/resourcepack/optimized-models-lura)|||||✅|Optimizes models without affecting appearance. Small performace boost.
 
 
 ## Utility
