@@ -47,9 +47,9 @@ Removed all recource packs from 1.20.6 onwards for a smaller modpack.
 ## Utility
 | Name | 1.16.5 | 1.17.1 | 1.18-1.20.6| 1.21  | 1.21.1 | Description |
 |---|---|---|---|---|---|---|
-|Iris Shaders|✅|✅|✅
-|Mod Menu|✅|✅|✅
-|Reese's Sodium Options||✅||✅|✅
+|[Iris Shaders](https://modrinth.com/mod/iris)|✅|✅|✅
+|[Mod Menu](https://modrinth.com/mod/modmenu)|✅|✅|✅
+|[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)||✅||✅|✅
 
 
 ## Libraries
@@ -57,9 +57,9 @@ Removed all recource packs from 1.20.6 onwards for a smaller modpack.
 Mods that make other mods work. Should not be removed.
 | Name | 1.16.5-1.19.4| 1.20.0-2 | 1.20.3 | 1.20.4 | 1.20.5 | 1.20.6 | 1.21  | 1.21.1 | Description |
 |---|---|---|---|---|---|---|---|---|---|
-|Cloth Config API|✅|✅|✅|✅|✅|✅|✅|✅
-|Fabric API|✅|✅|✅|✅|✅|✅|✅|✅
-|Fabric Language Kotlin|✅||||✅|✅|||
-|YetAnotherConfigLib||✅|✅|✅|✅|✅|✅|✅
-|Moonlight Lib|||✅|
-|Fzzy Config|||||✅|
+|[Cloth Config API](https://modrinth.com/mod/cloth-config)|✅|✅|✅|✅|✅|✅|✅|✅
+|[Fabric API](https://modrinth.com/mod/fabric-api)|✅|✅|✅|✅|✅|✅|✅|✅
+|[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)|✅||||✅|✅|||
+|[YetAnotherConfigLib](https://modrinth.com/mod/yacl)||✅|✅|✅|✅|✅|✅|✅
+|[Moonlight Lib](https://modrinth.com/mod/moonlight)|||✅|
+|[Fzzy Config](https://modrinth.com/mod/fzzy-config)|||||✅|
